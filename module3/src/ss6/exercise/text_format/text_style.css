@@ -1,0 +1,27 @@
+#a, #b, #c {
+    text-indent: 50px;
+}
+
+sup {
+    font-size: 8px;
+}
+
+a {
+    color: darkblue;
+}
+
+sup {
+    color: blue;
+}
+
+#d {
+    color: black;
+}
+
+pre {
+    font-family: "Times New Roman";
+}
+
+body {
+    background: #d4d4d4;
+}

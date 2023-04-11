@@ -1,0 +1,25 @@
+h1{
+    color: red;
+    font-family: Tahoma;
+    font-size: 200%;
+}
+p{
+    color: pink;
+    font-family: Arial;
+    font-size: 120%;
+    border: 1px solid green;
+    padding: 10px;
+}
+#danh{
+    color: green;
+}
+table{
+    border-collapse: collapse;
+    width:100%;
+}
+table,td,th{
+    border: 1px solid black;
+}
+th{
+    height: 20px;
+}
